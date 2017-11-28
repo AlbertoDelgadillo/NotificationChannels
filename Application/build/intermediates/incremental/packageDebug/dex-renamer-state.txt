@@ -1,0 +1,7 @@
+#Tue Nov 28 09:42:48 CST 2017
+base.0=D\:\\home\\documentos\\android\\NotificationChannels\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e8e180852b946a144baaae54b0ee8dad705364ca
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\home\\documentos\\android\\NotificationChannels\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fac3ea867aad30fbcd470355475f455cf419226f\\classes.dex
+base.1=D\:\\home\\documentos\\android\\NotificationChannels\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fac3ea867aad30fbcd470355475f455cf419226f
+file.0=D\:\\home\\documentos\\android\\NotificationChannels\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e8e180852b946a144baaae54b0ee8dad705364ca\\classes.dex
